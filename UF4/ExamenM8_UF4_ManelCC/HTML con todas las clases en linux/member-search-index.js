@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"shapes","c":"Shapes","l":"getArea()"},{"p":"shapes","c":"Shapes","l":"Shapes()","u":"%3Cinit%3E()"}];updateSearchResults();

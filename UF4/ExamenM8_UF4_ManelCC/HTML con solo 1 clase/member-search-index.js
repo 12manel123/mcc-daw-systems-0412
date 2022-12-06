@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"<Unnamed>","c":"shape","l":"getArea()"},{"p":"<Unnamed>","c":"shape","l":"shape()","u":"%3Cinit%3E()"}];updateSearchResults();
